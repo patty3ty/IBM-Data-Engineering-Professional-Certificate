@@ -33,4 +33,4 @@ There are 13 courses throughout the specialization and a capstone project at the
 
 ## Certificates
 - IBM Data Engineering Professional
-![alt text](https://github.com/patty3ty/IBM-Data-Engineering-Professional-CertificateCertificate/blob/main/Certificate/Professional.png)
+<img width="985" alt="Professional" src="https://github.com/patty3ty/IBM-Data-Engineering-Professional-Certificate/assets/86550324/3c7cb84d-5496-496c-a30b-0ebe952fbbf7">
