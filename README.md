@@ -1,9 +1,9 @@
 # DataEng_IBM
 ## Description
-In this repo, I recap my solutions for the assignments for the 15-month IBM Data Engineering Professional Specialization on Coursera that I have done in less than 3 weeks. The specialization contains:
-- Create, design, and manage relational databases and apply database administration (DBA) concepts to RDBMSes such as MySQL, PostgreSQL, and IBM Db2. 
-- Develop and execute SQL queries using SELECT, INSERT, UPDATE, DELETE statements, database functions,  stored procedures, Nested Queries, and JOINs. 
-- Demonstrate working knowledge of NoSQL & Big Data using MongoDB, Cassandra, Cloudant, Hadoop, Apache Spark, Spark SQL, Spark ML, Spark Streaming. 
+In this repo, I recap my solutions for the assignments for the 15-month IBM Data Engineering Professional Specialization on Coursera. The specialization contains:
+- Master the most up-to-date practical skills and knowledge data engineers use in their daily roles. 
+- Develop working knowledge of NoSQL & Big Data using MongoDB, Cassandra, Cloudant, Hadoop, Apache Spark, Spark SQL, Spark ML, and Spark Streaming. 
+- Learn to create, design, & manage relational databases & apply database administration (DBA) concepts to RDBMSs such as MySQL, PostgreSQL, & IBM Db2. 
 - Implement ETL & Data Pipelines with Bash, Airflow & Kafka; architect, populate, deploy Data Warehouses; create BI reports & interactive dashboards.​ 
 
 There are 13 courses throughout the specialization and a capstone project at the end:
@@ -32,9 +32,5 @@ There are 13 courses throughout the specialization and a capstone project at the
 - Data Pipelines - Apache Airflow
 
 ## Certificates
-- IBM Data Engineering Foundations
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/Certificates/Foundations.png)
-- IBM Data Warehouse Engineer Proffesional
-![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/Certificates/DataWarehousing.png)
-- IBM Data Engineering Proffesional
+- IBM Data Engineering Professional
 ![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/Certificates/Professional.png)
